@@ -5,6 +5,7 @@
  I did my Masters of technology from NIT Kurukshetra and <br />
  Bachelors in technology from Vellore Institute of Technology, Vellore.<br />
  I’m interested in Data science domain. <br />
+ How to reach me https://www.linkedin.com/in/prateekvarshney3/
 
 ---
 
@@ -19,13 +20,6 @@
 
 [linkedin]: https://www.linkedin.com/in/prateekvarshney3/
 [gmail]: mailto:prateekvarshney3@gmail.com
-
-## Connect With Me:
-
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-<br />
-
 ---
 
 
