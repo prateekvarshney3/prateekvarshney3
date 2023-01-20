@@ -12,7 +12,8 @@
 
 
 
-🎓 I did my Bachelors in Civil Engineering from Vellore Institute of Technology, Vellore.  </br>
+🎓 Masters of technology from NIT Kurukshetra
+   Bachelors in technology from Vellore Institute of Technology, Vellore.</br>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
