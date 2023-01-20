@@ -1,25 +1,19 @@
 ## Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm , Prateek Varshney.
 <br />
 
-## About Me 🚀
-
-
-
-🎓 I did my Masters of technology from NIT Kurukshetra and <br />
-    Bachelors in technology from Vellore Institute of Technology, Vellore.<br />
-    I’m interested in Data science domain. <br />
+# About Me 🚀
+ I did my Masters of technology from NIT Kurukshetra and <br />
+ Bachelors in technology from Vellore Institute of Technology, Vellore.<br />
+ I’m interested in Data science domain. <br />
 
 ---
 
 ### 🛠Tech Stack
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-<br />
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=2C2255)
-<br />
-![Power BI]
+!Power BI
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-<br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 --
 
