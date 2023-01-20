@@ -5,11 +5,9 @@
 
 
 
-🎓 Masters of technology from NIT Kurukshetra <br />
-   Bachelors in technology from Vellore Institute of Technology, Vellore.<br />
-   I’m interested in Data science domain. <br />
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+🎓 I did my Masters of technology from NIT Kurukshetra and <br />
+    Bachelors in technology from Vellore Institute of Technology, Vellore.<br />
+    I’m interested in Data science domain. <br />
 
 ---
 
@@ -18,21 +16,12 @@
 <br />
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=2C2255)
 <br />
+![Power BI]
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 --
-
-## My GitHub Stats 💻
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekvarshney3&hide=html,css&theme=dark)](https://github.com/prateekvarshney3/github-readme-stats)
-[![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekvarshney3&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/prateekvarshney3/github-readme-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prateekvarshney3&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=highcontrast)
-![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=prateekvarshney3&theme=highcontrast)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=prateekvarshney3)
-<br />
 
 [linkedin]: https://www.linkedin.com/in/prateekvarshney3/
 [gmail]: mailto:prateekvarshney3@gmail.com
